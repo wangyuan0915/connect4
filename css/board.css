@@ -1,0 +1,42 @@
+body {
+    font-family: Helvetica, Arial, "Lucida Grande", sans-serif; 
+}
+
+
+p#color, #move{font-weight: bold;
+               font-size:20px;}
+
+
+.plate {
+    width: 70px;
+    height: 70px;
+    border: black solid 2px;
+    margin: 2px;
+    border-radius:38px;
+    background: #eee;
+}
+
+.column{
+        background: blue;
+        float:left;
+
+    }
+
+
+.match{
+        height:120px;}
+
+#gamearea{
+    border-radius:2px;
+/*    background: blue;*/
+}
+
+
+[user = "1"] {
+    background: yellow;
+    }
+
+
+[user = "2"] {
+    background: red;
+    }   
