@@ -1,0 +1,30 @@
+Welcome to use my connect4.
+
+Please logout everytime when you do not want to play anymore. Besides, please try not 
+to refresh or use "back" on the broswer.
+
+Please try to use Chrome! Firefox is fine except when you reject an invitation, wait the invitor receive
+rejection message then reject the second time.
+
+There are already two users in the database.
+Username:wangyuan Password:123456
+Username:g3naiver Password:654321
+
+You can create new account with captcha. The password should at least 6 digits and the username
+and email should be unique.
+
+You can find your password if you forget it. Enter the email and you will recieve a new password
+by email.
+
+When you login you can change your password, still at least 6 digits.
+
+It will show all of available users. You can invite them, accept somebody's invitation or reject them.
+
+The game rules is the same as the instruction. It will show your color, whose turn and match status.
+
+Do not click to fast and wait 2 sec after you click to make sure are you really drop or not, 
+i think it just need some time to post or get msg.
+
+I use array to store the board state and json to transfer them.
+
+Finally enjoy the game!!!
